@@ -1,4 +1,4 @@
-com.pm.patientservice.model;
+ package com.pm.patientservice.model;
 
 public class patient {
 
