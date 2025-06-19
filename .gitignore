@@ -1,0 +1,17 @@
+.idea
+*.iml
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Maven/Gradle
+target/
+build/
+.mvn/
+.mvn/wrapper/maven-wrapper.jar
+
+# OS files
+.DS_Store
